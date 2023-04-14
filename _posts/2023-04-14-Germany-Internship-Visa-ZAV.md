@@ -12,7 +12,7 @@ I decided to share my experience 🇮🇳 with obtaining a ZAV pre-approval for 
 **Tip 1**: If something sounds as alien as the ZAV, look into it as the first thing!
 
 
-![Olympia Park Munich](https://github.com/ichbinakanksha/personal-blog/blob/my-pages/images/olympiapark.jpeg "A cool snap for some color (At Olympia Park, Munich)")
+![Olympia Park Munich](https://github.com/ichbinakanksha/India-to-Germany/blob/main/images/olympiapark.jpeg "A cool snap for some color (At Olympia Park, Munich)")
 
 Important things to note:
 
