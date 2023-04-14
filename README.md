@@ -11,9 +11,6 @@ I decided to share my experience 🇮🇳 with obtaining a ZAV pre-approval for 
 
 **Tip 1**: If something sounds as alien as the ZAV, look into it as the first thing!
 
-
-![Olympia Park Munich](https://github.com/ichbinakanksha/India-to-Germany/blob/main/images/olympiapark.jpeg "A cool snap for some color (At Olympia Park, Munich)")
-
 Important things to note:
 
 Only the employer or the intern’s supervisor can file for the work permit and the intern needs to provide the following documents which you should send to your employer in advance to sped up the process.
