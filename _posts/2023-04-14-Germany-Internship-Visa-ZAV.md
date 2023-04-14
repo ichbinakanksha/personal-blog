@@ -3,6 +3,8 @@ title: "German Internship Visa (with ZAV Pre approval)"
 date: 2023-04-14
 ---
 
+*Note: Since I received a great response, I've moved this from medium.com to here!*
+
 Welcome to German bureaucracy 🇩🇪 ! If you have stumbled upon this post, chances are you’re going to be in Germany for quiet a bit. A very important document that goes along with your visa application is the work permit document or ZAV consent letter from the Bundesagentur für Arbeit. Rest assured it’s something no one has ever heard about, especially if you are joining a startup where there’s no dedicated team for relocation, you’re mostly on your own.
 
 I decided to share my experience 🇮🇳 with obtaining a ZAV pre-approval for my tech internship in Munich, Germany. Since I struggled a bit with it due to lack of information available online. I would say that its the first thing you should look into when you decide to arrange a visa, since processing time can be between 3–6 weeks, in my case it was 5 long weeks (and we were unfortunate enough to make it the last priority)
