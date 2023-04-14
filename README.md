@@ -12,7 +12,7 @@ I decided to share my experience 🇮🇳 with obtaining a ZAV pre-approval for 
 **Tip 1**: If something sounds as alien as the ZAV, look into it as the first thing!
 
 
-![Olympia Park Munich](https://github.com/ichbinakanksha/personal-blog/blob/my-pages/images/olympiapark.webp "A cool snap for some color (At Olympia Park, Munich)")
+![Olympia Park Munich](https://github.com/ichbinakanksha/India-to-Germany/blob/main/images/olympiapark.jpeg "A cool snap for some color (At Olympia Park, Munich)")
 
 Important things to note:
 
@@ -23,10 +23,11 @@ Only the employer or the intern’s supervisor can file for the work permit and 
 3. Passport copy
 4. Print from anabin on the Internet (http://anabin.kmk.org). The Ausdruck from anabin is required to find out if a university degree is recognized or comparable to German standards. For obtaining that, one needs to check this online database — relevant print out of the information given by anabin will be accepted.
 
-Apart from these a few more documents would be required from your employer’s side. (Obtained and translated from the following pdf from the ZAV site: https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba015615.pdf )
+Apart from these a few more documents would be required from your employer’s side. (Which I've translated from the following pdf from [this ZAV site](https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/dok_ba015615.pdf))
 
 1. Acquisition sheet
 2. Internship plan
+
 [This form](https://www.arbeitsagentur.de/datei/Erfassung-Praktika_ba015613.pdf) needs to be filled and submitted from your employer’s side(via email: zav@arbeitsagentur.de, you’re welcome!).
 
 In my case my case even my employer was unaware about this ZAV document. Turns out it wasn’t even required for anything else except for my visa, it might be the same for you.
@@ -49,4 +50,3 @@ I applied for the Schengen visa for my internship given the time constraints, Na
 In my case the pre-approval arrived so late that I had to shift my internship dates and the dates on the ZAV certificate became outdated. We never bothered to get it corrected however I did mention that in my visa application.
 
 **Tip 2**. Try to mention it in the visa cover letter in case of ambiguity. Also, ask queries via email to the embassy and attach a copy of their response with your visa application.
-
