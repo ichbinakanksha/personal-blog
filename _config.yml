@@ -1,3 +1,10 @@
+# Site settings
+title: Indian Girl in Germany
+description: My immigration blog
+baseurl: "/India-to-Germany/" # The subpath of your site, e.g., /blog/
+url: "https://ichbinakanksha.github.io" # The base hostname & protocol for your site
+
+# Build settings
 theme: minima
 title: Tech & Turmeric- An Indian Girl Abroad
 author: Akanksha Bhardwaj
